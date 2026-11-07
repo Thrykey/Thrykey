@@ -10,6 +10,7 @@ Cybersecurity engineering student (5th semester) based in Kraków, Poland. Focus
 * **Teaching & Community:** 
   * Instructor for high school workshops on Web Security fundamentals (SQL Injection & XSS).
   * 2-time co-organizer of **Małopolska Noc Naukowców**.
+  * Organizing Team Member – **Studencki Festiwal Informatyczny (SFI 2027)**.
 * **Certifications & Training:** 
   * Cisco CCNA coursework & preparation badges.
 
