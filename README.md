@@ -13,9 +13,6 @@ Cybersecurity engineering student (5th semester) based in Kraków, Poland. Focus
   * Organizing Team Member – **Studencki Festiwal Informatyczny (SFI 2027)**.
 * **Certifications & Training:** 
   * Cisco CCNA coursework & preparation badges.
-
-* **Academic Research & Grants:** 
-  * Researching AI applications in disinformation detection (Rector's Grant Project).
 ---
 
 ### Featured Repositories
