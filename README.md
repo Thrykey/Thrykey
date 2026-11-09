@@ -17,7 +17,7 @@ Cybersecurity engineering student (5th semester) based in Kraków, Poland. Focus
 
 ### Featured Repositories
 * **[web-security-review-template](https://github.com/Thrykey/web-security-review-template-pl)** – Web application security testing plan & methodology template based on OWASP Top 10:2025 and API Top 10:2023.
-
+* **[linux-stateful-firewall](https://github.com/Thrykey/linux-stateful-firewall)** – Stateful iptables script featuring DoS rate-limiting, SSH access controls, and sysctl hardening (OS Security Lab project).
 ---
 
 ### Profiles
