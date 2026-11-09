@@ -9,7 +9,7 @@ Cybersecurity engineering student (5th semester) based in Kraków, Poland. Focus
   * Conducting research on using AI for detecting social media disinformation (Rector's Grant Project).
 * **Teaching & Community:** 
   * Instructor for high school workshops on Web Security fundamentals (SQL Injection & XSS).
-  * 2-time co-organizer of **Małopolska Noc Naukowców**.
+  * 2-time IT Lead and co-organizer of **Małopolska Noc Naukowców**.
   * IT and Organizing Teams Member – **Studencki Festiwal Informatyczny (SFI 2027)**.
 * **Certifications & Training:** 
   * Cisco CCNA coursework & preparation badges.
